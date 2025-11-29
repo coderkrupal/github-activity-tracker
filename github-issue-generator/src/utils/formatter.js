@@ -1,0 +1,1 @@
+export const cleanText = (text) => text.trim();
